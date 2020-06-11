@@ -1,0 +1,49 @@
+ html {
+     background-image: url("../img/dragon-ball-wallpaper-1920x1080.jpg")
+ }
+
+h1 {
+    color:  rgb(64, 106, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+
+
+img {
+    width: 25%;
+    margin: auto;
+    box-shadow: 8px 4px 8px black;
+    
+}
+
+#BioHeader {
+    color:  rgb(64, 106, 204);
+ font-family: serif;
+ margin: 10px;
+ border-top: 20px;
+}
+#SkillsHeader {
+    color:  rgb(64, 106, 204);
+ font-family: serif;
+ margin: 10px;
+ border: 20px;
+
+}
+#Link {
+ color: #2b77ceda;
+ font-family: serif;
+ font-weight: 600;
+ position: relative;
+}
+.img-div {
+    position: absolute;
+    }
+    .Menu {
+        border: solid 1px;
+        display: inline-block;
+        color: cornsilk;
+        padding-right: 10px;
+    }
